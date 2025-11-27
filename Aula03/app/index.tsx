@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Gomes gay</Text>
+      <Text>Olá Amigos.</Text>
     </View>
   );
 }
